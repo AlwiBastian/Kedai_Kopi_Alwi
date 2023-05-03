@@ -12,6 +12,7 @@ Program ini terdiri dari tiga kelas:
 3. AnandaCoffee: kelas ini adalah inti dari program ini. Kelas ini berisi dua atribut: menu_kopi dan diskon. Atribut menu_kopi adalah sebuah list yang berisi empat objek MenuKopi, masing-masing mewakili satu menu minuman kopi. Atribut diskon adalah sebuah list yang berisi lima objek Diskon, masing-masing mewakili satu level diskon (tidak ada diskon, diskon 5%, diskon 10%, diskon 15%, dan diskon 20%). 
 
 Kelas ini memiliki tiga metode: 
+
 -show_menu() untuk menampilkan daftar menu minuman kopi
 
 -pesan_menu(pesan, jumlahpesan) untuk memesan sebuah menu minuman kopi dengan jumlah tertentu

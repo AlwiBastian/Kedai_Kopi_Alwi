@@ -13,5 +13,7 @@ Program ini terdiri dari tiga kelas:
 
 Kelas ini memiliki tiga metode: 
 -show_menu() untuk menampilkan daftar menu minuman kopi
+
 -pesan_menu(pesan, jumlahpesan) untuk memesan sebuah menu minuman kopi dengan jumlah tertentu
+
 -hitung_total(harga, jumlahpesan) untuk menghitung total harga pesanan
